@@ -7,3 +7,6 @@
 
 ## Run
 terminal에 `streamlit run mask.py` 입력
+
+## Result
+![image](https://github.com/jinjero/mask_classification_streamlit/assets/146058962/3d18d46e-f236-4a0f-bd19-5893e710579b)
