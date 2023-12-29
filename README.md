@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-git clone 
+git clone https://github.com/jinjero/mask_classification_streamlit.git
 ```
 
 ## Tech/Framework Used
